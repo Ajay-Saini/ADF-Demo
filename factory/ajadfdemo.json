@@ -1,0 +1,9 @@
+{
+	"name": "ajadfdemo",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "42472a49-65cb-4d84-bb8d-47563fd42fca",
+		"tenantId": "919800df-90f8-4fce-8d90-9902fad24124"
+	}
+}
